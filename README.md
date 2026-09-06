@@ -34,7 +34,6 @@ The system uses facial landmark detection and the Eye Aspect Ratio (EAR) to moni
 driver-drowsiness-detection/
 │
 ├── app.py
-├── shape_predictor_68_face_landmarks.dat
 ├── requirements.txt
 └── README.md
 ```
